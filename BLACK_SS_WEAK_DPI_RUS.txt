@@ -1,0 +1,21 @@
+# profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | SS WEAK DPI | Shadowsocks для сетей со слабой фильтрацией
+# profile-update-interval: 1
+# Date/Time: 2026-10-01 / 22:35 (Moscow)
+# Количество: 5
+# For more info and VPN configs, visit: https://github.com/igareck/vpn-configs-for-russia
+
+# RU: Эта подписка содержит конфигурации Shadowsocks без обфускации и плагинов, предназначенные для использования в сетях со слабым DPI или пониженным уровнем фильтрации.
+# RU: Для данной подписки рекомендуются сети небольших региональных операторов, преимущественно кабельных.
+# RU: Требуется настройка DNS-over-HTTPS в роутере или в параметрах сетевого адаптера ПК. Без DoH трафик может блокироваться даже при успешной проверке пинга конфигураций.
+# RU: Работоспособность не гарантируется и зависит от оператора связи.
+
+# EN: This subscription contains Shadowsocks configurations without obfuscation or plugins, intended for use on networks with weak DPI or a reduced level of traffic filtering.
+# EN: This subscription is recommended primarily for networks operated by smaller regional and cable Internet service providers.
+# EN: DNS-over-HTTPS must be configured on the router or in the PC network adapter settings. Without DoH, traffic may be blocked even when the configurations pass the ping test.
+# EN: Functionality is not guaranteed and depends on the Internet service provider.
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJY292b1hFTXlqZkdqTjlSZW56S3MwL2lQYVozdnRrOWZreEowcy9SNXZ3PQ@130.49.189.158:43558#%F0%9F%87%A6%F0%9F%87%B1%20Albania%2C%20Tirana%20%7C%20%5BBL%5D
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@130.94.69.15:7001#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2C%20Kuala%20Lumpur%20%7C%20%5BBL%5D
+ss://YWVzLTEyOC1nY206YktnRU5kQWxAOFp4M2xBYy1ISy1CRC0yMDI2MDYyMg@154.86.30.45:24443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Queenstown%20Estate%29%20%7C%20%5BBL%5D
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Seoul%20%28Toegye-ro%29%20%7C%20%5BBL%5D
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@194.38.11.86:65443#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Berdsk%20%7C%20%5BBL%5D
