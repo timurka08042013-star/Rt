@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # Date/Time: 2026-10-01 / 22:35 (Moscow)
 # Количество: 120
-# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
+# For more info and VPN-configs - visit: www://github.com/timurka08042013-star/Rt/tree/a6ae99cc251a16f9bdebbc553e97eaad43734b84
 
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=itsallproxy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA+Russia+%5B*CIDR%5D
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?sni=hy.quattro-tech.ru#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D
