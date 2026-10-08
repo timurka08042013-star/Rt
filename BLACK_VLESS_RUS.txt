@@ -4,5 +4,5 @@
 # Количество: 120
 # For more info and VPN-configs - visit:www://github.com/timurka08042013-star/Rt
 
-vless://bdcfc9bc-d3ee-403c-aa13-1f4fcb965a5b@31.131.251.129:10006?type=xhttp&security=reality&fp=qq&sni=fi-vpn.nimarko.org&pbk=bJlHMmDidmz29fw00Fg2qAd4DdjaTEFI9yClIJCbcHQ&path=%2Fss-fi-443-29%2F&mode=stream-up&extra=%7B%22mode%22%3A%22auto%22%7D#%F0%9F%87%AC%F0%9F%87%A7+LTE++%7C+%D1%82%D0%B3%D0%BA%3A+%40
+
 vless://267b3a79-81f2-42ac-a409-c23b05b6329d@94.141.162.88:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=srv88.bbobr.win&pbk=K9e4gQJX1KLEmvsKOp9CtJ-o-L4EIpYOPTg5Spo9MWs&sid=65ceab72c331f307#1.%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%7C+%40
