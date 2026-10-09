@@ -4,4 +4,4 @@
 # Количество: 120
 # For more info and VPN-configs - visit:www://github.com/timurka08042013-star/Rt
 
-
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%5BBL%5D
