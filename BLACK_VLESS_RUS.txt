@@ -10,6 +10,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.181-0087
 hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?sni=match-stream.lovkisport.blog#Anycast+strict
 hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?sni=match-stream.lovkisport.blog&insecure=1#%F0%9F%8C%90+Anycast-IP+%7C+%F0%9F%87%A8%F0%9F%87%A6+%F0%9F%87%B7%F0%9F%87%BA+%7C+%5BBL%5D
-socks://31.129.107.119:443#A%F0%9F%9F%A2%F0%9F%87%B7%F0%9F%87%редкий сервер_но часто не работает
+socks://31.129.107.119:443#A%F0%9F%9F%A2%F0%9F%87%B7%F0%9F%87%Pредкий сервер_но часто не работает
 vmess://eyJ2IjoiMiIsInBzIjoiLvCWpZQg3YEgy5bWtPCfm7jgvITLlsKwLiB8IFtCTF0iLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOiIzNTAzNCIsImlkIjoiOTU5YThjYWYtNGNlYS00M2QwLWE1NDgtMzYyOGU3ZGRmYWZjIiwiYWlkIjoiMCIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIn0=
 vless://244d9eab-3311-40c7-b47f-4968dc3088a6@194.93.61.143:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=nl10.lazeroe.com&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#%D0%90%D0%B2%D1%82%D0%BE%D0%BF%D0%BE%D0%B4%D0%B1%D0%BE%D1%80+
