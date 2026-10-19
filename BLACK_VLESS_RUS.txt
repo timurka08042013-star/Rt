@@ -5,7 +5,6 @@
 # For more info and VPN-configs - visit:www://github.com/timurka08042013-star/Rt
 
 vless://b831381d-6324-4d53-ad4f-8cda48b30811@46.147.70.232:8442?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=GzMJSBtsx2JS_fpyNFVGxqwC2IROVWM3iA5a9UJ54g4&sid=0123456789abcdef&type=tcp&spx=%2F#tired-vision
-vless://b831381d-6324-4d53-ad4f-8cda48b30811@192.168.1.119:8443?encryption=none&flow=&security=reality&sni=www.microsoft.com&fp=chrome&pbk=5TgrdcN9fXAEq6bJXeNFsKZ-fB2jvBw71nbi688LLT8&sid=0123456789abcdef&type=tcp#tired новая разработка моя
 vless://0011d187-d066-48f6-957c-a6983dd63a77@138.124.100.29:443?type=tcp&security=reality&fp=qq&sni=est.netvora.space&pbk=KEpkyrOY2wV5h8_bA6doDT1e-lFjYd1jGHKDtDl8hSk&sid=141fb733511e7553#WIFI+%2F+LTE%5B%D0%91%D0%B5%D0%B7%D0%9E%D0%B3%D1%80%5D%3A+%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F+%7C+%231
 vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@147.45.148.6:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=yoy-api.bachidze.com&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI#%E4%BF%84%E7%BD%97%E6%96%AF+V2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#%F0%9F%87%B3%F0%9F%87%B1+MB+Netherlands%2C+Amsterdam+%28Amsterdam-Noord%29+%7C+%5BBL%5D
